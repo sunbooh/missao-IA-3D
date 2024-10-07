@@ -1,20 +1,22 @@
 export const perguntas = [
     {
-        enunciado: "O que caracteriza o racismo estrutural na sociedade?",
+        enunciado: "Você prefere nike ou adidas?",
         alternativas: [
             {
-                texto: "Desigualdades raciais",
+                texto: "nike",
                 afirmacao: [
-                    "São perpetuadas por instituições, políticas e normas sociais.",
-                    "afirmacao 2"
-                    ]
+                    "você tem Bom gosto",
+                    "você sabe que eu gostei da escolha"
+                    ],
+                proxima: 1,
             },
             {
-                texto: "Discriminação individual",
+                texto: "adidas",
                 afirmacao: [
-                    "Apenas a discriminações individual e direta afeta a sociedade",
-                    "afirmacao 2"
-                    ]
+                    "você é um bosta",
+                    "você não sabe escolher"
+                    ],
+                proxima: 2,
             }           
             
         ]
