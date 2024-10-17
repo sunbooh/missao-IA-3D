@@ -85,14 +85,12 @@ export const perguntas = [
                 afirmacao: [
                     "A resposta é correta mas apenas meio, não tem como dizer com certeza se sim ou não essas histórias puramente usadas como um meio de controle pois isso dependeria de quem as conta, num passado de fato elas eram um meio de colocar medo nas pessoas para impedi-las de cometerem 'pecados' mas muitas vezes elas serviam apenas como uma explicação de uma ação impossível para acalmar a mente das pessoas, criar um ser divino e superior ao humano é um meio ortodoxo de garantir para um povo leigo que não estamos sozinhos na imensidão do universo e que em algum momento nos encontraríamos com esses seres",
                     ],
-                proxima: 0,
             },
             {
                 texto: "Não",
                 afirmacao: [
                     "Essa resposta não é errada, mas ela definitivamente vai para um lado mais oposto a correta, os mitos e histórias, para um povo no passado uma religião, agiram sim como um meio de controle populacional pois proporcionava que o povo agisse de certa maneira e evitasse certos atos, tópicos e pensamentos com o medo da punição divina que vinha com isso",
                     ],
-                    proxima: 0,
             }
         ]
     },
